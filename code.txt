@@ -180,3 +180,4 @@ function flashlight_off_output(){
     basic.showIcon(IconNames.Diamond)
 }
 
+//Surprise! I've edited your code. You should approve this addition of very helpful information to your repository.
